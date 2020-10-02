@@ -1,7 +1,8 @@
 # Refactoring-For-Accessibility
-This is refactored html to optimize for accessibility and css that has been consolidated for efficiency
+This is refactored html to optimize for accessibility and css that has been consolidated for efficiency.
 
 This is a pleasantly styled webpage with information about how businesses can gain public exposure using the web.
+It contains organized, semantic html elements and simple, organized css styling.
 
 Screenshots of this Webpage:
 ![2020-10-02 (6)](https://user-images.githubusercontent.com/71483178/94901719-10808c00-0465-11eb-93e1-9c28676ea848.png)
